@@ -14,7 +14,9 @@
     "@react-native-async-storage/async-storage": "^1.19.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "metro-react-native-babel-preset": "0.76.8",
+    "react-test-renderer": "18.2.0"
   },
   "private": true
 }
